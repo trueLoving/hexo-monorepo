@@ -1,0 +1,12 @@
+{
+  "name": "@true-loving/hexo-monorepo",
+  "keywords": [
+    "hexo",
+    "plugins"
+  ],
+  "author": {
+    "name": "届か ない こい 恋",
+    "url": "https://github.com/trueLoving"
+  },
+  "license": "MIT"
+}
